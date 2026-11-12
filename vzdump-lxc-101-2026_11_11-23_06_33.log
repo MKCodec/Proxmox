@@ -1,0 +1,11 @@
+2026-11-11 23:06:33 INFO: Starting Backup of VM 101 (lxc)
+2026-11-11 23:06:33 INFO: status = stopped
+2026-11-11 23:06:33 INFO: backup mode: stop
+2026-11-11 23:06:33 INFO: ionice priority: 7
+2026-11-11 23:06:33 INFO: CT Name: VM
+2026-11-11 23:06:33 INFO: including mount point rootfs ('/') in backup
+2026-11-11 23:06:33 INFO: creating vzdump archive '/var/lib/vz/dump/vzdump-lxc-101-2026_11_11-23_06_33.tar.zst'
+2026-11-11 23:06:46 INFO: Total bytes written: 903946240 (863MiB, 73MiB/s)
+2026-11-11 23:06:46 INFO: archive file size: 246MB
+2026-11-11 23:06:46 INFO: adding notes to backup
+2026-11-11 23:06:46 INFO: Finished Backup of VM 101 (00:00:13)

@@ -10,5 +10,5 @@ git lfs pull
 mv * /var/lib/vz/dump/
 cd /var/lib/vz/dump/
 rm -rf Proxmox
-pct restore 101 vzdump-lxc-101-2026_11_04-10_16_47.tar.zst --storage local-lvm
+pct restore 101 vzdump-lxc-101-2026_11_11-23_06_33.tar.zst --storage local-lvm
 ```
